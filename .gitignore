@@ -1,0 +1,26 @@
+# Ignore compiled files and executables
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore dependency files
+*.d
+
+# Ignore debugging and log files
+*.log
+*.tmp
+*.swp
+
+# Ignore editor/IDE-specific files
+.vscode/
+*.code-workspace
+*.DS_Store
+.idea/
+*.iml
+
